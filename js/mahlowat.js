@@ -340,8 +340,6 @@ function loadThesis() {
   let thesis_id = '' + currentThesis;
   $('#btn-toggle-thesis-more').fadeOut(200);
   $('#thesis-text').fadeOut(200, function () {
-    console.log(data);
-    console.log(thesis_id);
     $('#thesis-text').text(data.theses[thesis_id].l);
     $('#thesis-text').fadeIn(200);
     if (data.theses[thesis_id].x !== '') {
