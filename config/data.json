@@ -1,0 +1,762 @@
+{
+	"theses": {
+		"0": {
+			"l": "Mich interessiert, wie ein Unternehmen geführt wird.",
+			"s": "Unternehmensführung",
+			"x": "Unternehmensführung bedeutet Festlegen von Unternehmenszielen, Einführen von verschiedenen leistungsfähigeren Systemen und auch fördern von Mitarbeitern."
+		},
+		"1": {
+			"l": "Ich interessiere mich für (betriebs-)wirtschaftliche Themen ",
+			"s": "Betriebswirtschaftliche Grundlagen",
+			"x": "Beispiele dafür wären  z. B. Rechnungswesen, Finanzbuchhaltung oder Personalwesen."
+		},
+		"3": {
+			"l": "Ich kann mir vorstellen, dass mir kaufmännisches Denken und unternehmerisches Handeln liegt.",
+			"s": "Kaufmännisches Denken",
+			"x": "Kaufmännisches Denken ist das verstehen von wirtschaftlichen Zusammenhängen und entsprechende Ausrichtung der eigenen Aktivitäten und Handlungen"
+		},
+		"4": {
+			"l": "Ich möchte verstehen, wie Informationssysteme funktionieren.",
+			"s": "Informationssysteme",
+			"x": "Ein Informationssystem besteht aus Menschen und Maschinen, die Information erzeugen und/oder benutzen und die durch Kommunikationsbeziehungen miteinander verbunden sind. Betriebliche Informationssysteme werden z.B. zum Managen von Kundenbeziehungen benutzt (z.B. Customer Relationship Management - CRM-System). "
+		},
+		"5": {
+			"l": "Mir macht es Spaß vor anderen zu präsentieren.",
+			"s": "Präsentationen",
+			"x": "Das Präsentieren von Ergebnissen ist ein großer Bestandteil von vielen wirtschaftlichen Studiengängen, aber auch nach dem Studium sind Präsentationen weiterhin Bestandteil des Arbeitsleben"
+		},
+		"6": {
+			"l": "Ich möchte wissen, wie und in welchen Datenbanken Daten gespeichert werden können.",
+			"s": "Datenbanken",
+			"x": "Eine Datenbank, auch Datenbanksystem genannt, ist ein System zur elektronischen Datenverwaltung (speichern, ändern, abfragen oder löschen von Daten)."
+		},
+		"7": {
+			"l": "Mich interessiert, wie Geschäftsprozesse in IT-Systemen umgesetzt werden. ",
+			"s": "Geschäftsprozesse in IT-Systemen",
+			"x": "\"Ein Geschäftsprozess ist eine Reihe miteinander verbundener Aufgaben, an deren Ende die Bereitstellung einer Dienstleistung oder eines Produkts für den Kunden steht. \""
+		},
+		"8": {
+			"l": "Ich möchte die rechtlichen Hintergründe zu meiner Arbeit wissen.",
+			"s": "Rechtliche Grundlagen",
+			"x": "Du willst im Studium Bereiche wie Wirtschaftsrecht, IT-Recht und im Allgemeinen soll Recht Bestandteil des Studiums sein."
+		},
+		"9": {
+			"l": "Mich interessiert, wie man Personal führt.",
+			"s": "Personalführung",
+			"x": "Du willst erfahren, wie man Mitarbeiter motiviert und zielorientiert beeinflusst."
+		},
+		"10": {
+			"l": "Ich möchte später gerne im Bereich IT-Sicherheit arbeiten. ",
+			"s": "IT-Sicherheit",
+			"x": "Unter IT-Sicherheit versteht man alle technischen oder organisatorischen Maßnahmen, die getoffen werden können, um Informationen oder die Kommunikation zu schützen."
+		},
+		"11": {
+			"l": "Ich interessiere mich dafür, eigene Apps zu entwickeln.",
+			"s": "App Entwicklung",
+			"x": ""
+		},
+		"12": {
+			"l": "Ich möchte lernen mit großen Datenmengen (Big Data) umzugehen.",
+			"s": "Big Data",
+			"x": "Die Analyse und das Aufbereiten von vielen Datenmengen interessiert mich. Ich möchte wissen, wie man so eine große Datenmenge in Diagrammen und anderen Visualisierungsmethoden darstellt"
+		},
+		"13": {
+			"l": "Ich möchte lernen, wie in einer Volkswirtschaft Güter erzeugt und verteilt werden.",
+			"s": "Volkswirtschaftslehre",
+			"x": "Als Volkswirtschaft wird die Gesamtheit aller einem Wirtschaftsraum (üblicherweise ein Staat oder Staatenverbund) zugeordneten Wirtschaftssubjekte (Haushalte, Unternehmen und der Staat) bezeichnet. Oft wird auch der Wirtschaftsraum selbst als Volkswirtschaft bezeichnet."
+		},
+		"14": {
+			"l": "Ich würde gerne wissen, wie man Produkte und Dienstleistungen vermarktet.",
+			"s": "Marketing",
+			"x": "Der Vetrieb von Produkten interessiert mich, ich möchte einen hohen Kundenbezug haben"
+		},
+		"15": {
+			"l": "Ich möchte gerne Programmieren lernen oder kann es schon.",
+			"s": "Programmieren",
+			"x": "Programmiersprachen wie Java, C++, HTML oder Python etc. möchte ich erlernen"
+		},
+		"16": {
+			"l": "Ich würde gerne verstehen, wie sich Unternehmen aufgrund der Digitalisierung weiterentwickeln.",
+			"s": "Digitalisierung",
+			"x": ""
+		},
+		"17": {
+			"l": "Mathematik fällt mir leicht.",
+			"s": "Mathematik",
+			"x": "mathematische Aufgaben sind für mich kein Problem"
+		},
+		"18": {
+			"l": "Ich möchte lernen, wie man Daten auswertet, aufbereitet und Erkenntnisse daraus gewinnt.",
+			"s": "Datenaufbereitung",
+			"x": "Der Begriff Daten beschreibt meistens Zahlen, die wirtschaftliche Vorgänge im Unternehmen dokumentieren oder von Produkten oder Services gesammelt werden."
+		},
+		"19": {
+			"l": "Mir macht es Spaß, mich theoretischen Konzepten der Informatik zu beschäftigen.",
+			"s": "Theoretische Informatik",
+			"x": "Die theoretische Informatik beschäftigt sich mit der Abstraktion, Modellbildung und grundlegenden Fragestellungen, die mit der Struktur, Verarbeitung, Übertragung und Wiedergabe von Informationen in Zusammenhang stehen. ( z.B.Logik, Automatensprache)"
+		},
+		"20": {
+			"l": "Ich möchte lernen, wie man beim Entwickeln von Software vorgeht.",
+			"s": "Softwareentwicklung",
+			"x": "Softwareentwicklung ist die Konzeption und Programmierung aller Arten von Anwendungen für den Computer und das Internet."
+		},
+		"21": {
+			"l": "Ich möchte den Aufbau und die Funktionsweise von Programmen verstehen.",
+			"s": "Aufbau von Programmen",
+			"x": ""
+		},
+		"22": {
+			"l": "Ich kann mir vorstellen Kund*innen zu beraten.",
+			"s": "Kundenberatung",
+			"x": "Der Kontakt mit Kunden und verschiedenen Menschentypen macht mir nichts aus und interessiert mich"
+		},
+		"23": {
+			"l": "Ich würde lieber neue Technologien ausprobieren, als zu kontrollieren, dass mein Unternehemen wirtschaftlich sauber arbeitet.",
+			"s": "Technologien vs. Wirtschaftlichkeit",
+			"x": ""
+		},
+		"24": {
+			"l": "Ich kann gut zwischen verschiedenen Personengruppen vermitteln.",
+			"s": "Vermittlungsfähigkeit",
+			"x": ""
+		},
+		"25": {
+			"l": "Ich beschäftige mich in meiner Freizeit viel mit technischen Themen.",
+			"s": "Technische Themen",
+			"x": ""
+		},
+		"26": {
+			"l": "Ich würde gerne Hardware (wie z.B. eine Festplatte oder einen Prozessor) in einen Computer einbauen.",
+			"s": "Hardware",
+			"x": ""
+		},
+		"27": {
+			"l": "Ich würde gerne Verfahren des Maschinellen Lernens verstehen und anwenden.",
+			"s": "Maschinelles Lernen",
+			"x": "Maschinelles Lernen ist ein Oberbegriff für die „künstliche“ Generierung von Wissen aus Erfahrung: Ein künstliches System lernt aus Beispielen und kann diese nach Beendigung der Lernphase verallgemeinert anwenden."
+		},
+		"28": {
+			"l": "Ich würde gerne Computernetzwerke einrichten und betreuen.",
+			"s": "Computernetzwerke",
+			"x": ""
+		},
+		"29": {
+			"l": "Ich kann meinen Freund*innen verständlich erklären, wie ein Programm oder eine App funktioniert.",
+			"s": "Verständliches Erklären",
+			"x": ""
+		},
+		"30": {
+			"l": "Ich kann mir vorstellen, mich mit Steuern und Finanzen im Arbeitsalltag auseinanderzusetzen.",
+			"s": "Steuern und Finanzen",
+			"x": ""
+		},
+		"31": {
+			"l": "Ich kann mir vorstellen für ein Programm oder eine App Tests zu entwickeln und durchzuführen, um herauszufinden, ob alle Funktionen richtig laufen. ",
+			"s": "Testen von Apps und Programmen",
+			"x": ""
+		},
+		"32": {
+			"l": "Ich bereite Daten und Informationen gerne anschaulich auf, um sie zu präsentieren.",
+			"s": "Präsentation von Daten",
+			"x": ""
+		},
+		"33": {
+			"l": "Ich möchte Software selbständig entwickeln und umsetzen können.",
+			"s": "Softwareentwicklung",
+			"x": ""
+		},
+		"34": {
+			"l": "Ich habe bereits praktische Erfahrungen im technischen Bereich z.B. durch ein Praktikum, eine Ausbildung oder Ähnliches.",
+			"s": "Praktische Erfahrungen",
+			"x": ""
+		}
+	},
+	"lists": {
+		"0": {
+			"name": "Wirtschaftsinformatik Application Management",
+			"name_x": "<a href=https://dhbw-loerrach.de/wirtschaftsinformatik/application-management/studieninhalte-profil>WI-AM</a>"
+		},
+		"1": {
+			"name": "Wirtschaftsinformatik Data Science",
+			"name_x": "<a href=https://dhbw-loerrach.de/wirtschaftsinformatik/data-science/studieninhalte-profil>WI-DS</a>"
+		},
+		"2": {
+			"name": "Informatik",
+			"name_x": "<a href=https://dhbw-loerrach.de/informatik/studieninhalte-profil>TIF</a>"
+		},
+		"3": {
+			"name": "BWL Digital Business Management",
+			"name_x": "<a href=https://dhbw-loerrach.de/dbm/studieninhalte-profil>BWL-DBM</a>"
+		}
+	},
+	"answers": {
+		"0": {
+			"0": {
+				"selection": "a",
+				"statement": "Unternehmensführung wird als Bestandteil des Moduls \"Management\" gelehrt."
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Grundlegende betriebswirtschaftliche Konzepte werden vermittelt (insgesamt 20 Credits)."
+			},
+			"2": {
+				"selection": "b",
+				"statement": "\"Die Weiterentwicklung von Geschäftsmodellen mithilfe von Daten wird im \nWahlfach \"\"DigitalTransformation/ SmartBusinessApplications\"\" behandelt.\n In den Kernmodulen ist dies nicht vorgesehen.\""
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Als Wirtschaftsinformatiker*in musst du dein unternehmerisches Verständnis in der Entwicklung von IT-Systemen einbringen."
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Es werden verschiedene Informationssysteme im Laufe des Studiums betrachtet. Die Betreuung dieser ist häufig Bestandteil im späteren Berusleben von Wirtschaftsinformatiker*innen."
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Das Erklären von Konzepten und das Präsentieren vor anderen ist ein wesentlicher Bestandteil des Studiengangs."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "\"Dies wird intensiv in den Modulen \"\"Fortgeschrittene Systementwicklung\"\" und \"\"Datenbanken\"\" behandelt. Das ist ebenfalls Bestandteil im Schwerpunkt \"\"Digital Transformation/ Smart Business\nApplications\"\". \""
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Geschäftsprozesse (5 Credits) und deren Umsetzung in betrieblichen Informationssystemen (5 Credits) bilden einen Schwerpunkt in den Kernmodulen. Dies bildet häufig auch den Schwerpunkt der späteren Tätigkeit von Wirtschaftsinformatiker*innen."
+			},
+			"8": {
+				"selection": "b",
+				"statement": "\"Es sind grundlegende Vorlesungen \nim Bereich Recht vorgesehen, die \nsich mit Gesellschaftsrecht und Vertrags- und Schuldrecht befassen. Allerdings ist dies nur ein Moudul (5 Credits).\""
+			},
+			"9": {
+				"selection": "c",
+				"statement": "Es gibt keine Vorlesungen zum Thema Personalführung."
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Durch die Vorlesung \"IT-Security-Management\" (50 Stunden) kennst du die Grundlagen der IT-Sicherheit und kannst in diesem Bereich arbeiten, solltest deine Kompetenzen jedoch noch erweitern."
+			},
+			"11": {
+				"selection": "b",
+				"statement": "Es gibt ein neues Wahlfach, in dem App Entwicklung gelehrt wird."
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Nur in dem Wahlfach \"DigitalTransformation/ SmartBusinessApplications\" gibt es die Vorlesung \"Big Data\" (25 Credits)."
+			},
+			"13": {
+				"selection": "b",
+				"statement": "Volkswirtschaftslehre wird in einem eigenen Kernmodul gelehrt (5 Credits). "
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Marketing wird in einer Vorlesung (24 Stunden) gelehrt. Des Weiteren ist dies Bestandteil des Schwerpunkts \"Consulting\"."
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Daten werden abgerufen. Warten Sie ein paar Sekunden, und versuchen Sie noch mal, auszuschneiden oder zu kopieren."
+			},
+			"16": {
+				"selection": "b",
+				"statement": "\"Grundlagen der digitalen Transformation werden ausschließlich im Wahlfach \"\"Digital Transformation/ Smart Business\nApplications\"\" vermittelt (20 Credits).\""
+			},
+			"17": {
+				"selection": "b",
+				"statement": "Es gibt zwei Module der Mathematik mit insgesamt 10 Credits."
+			},
+			"18": {
+				"selection": "b",
+				"statement": "Es gibt ein Modul in dem Wahlfach \"DigitalTransformation/ SmartBusinessApplications\" mit dem Thema \"Intelligent Data Analytics\" (5 Credits)."
+			},
+			"19": {
+				"selection": "b",
+				"statement": "Grundlegende theoretische Konzepte sowie Logik werden in den Kernmodulen behandelt."
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Einzelne Aspekte der Softwareentwicklung werden im Laufe des Studiums betrachtet (z.B. \"Systemanalyse und -Entwurf\" - 36 Stunden). Auch wird im Wahlfach \"Software- / WebEntwicklung\" eine Vertiefung angeboten."
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Es gibt mehrere Vorlesungen zu dem Thema: \"Fortgeschrittene Systementwicklung\" (55 Stunden) und \"Systemanalyse und -Entwurf\" (36 Stunden)."
+			},
+			"22": {
+				"selection": "a",
+				"statement": "Als Wirtschaftsinformatiker*in  ist es vor allem im Wahlfach \"Consulting\" deine Aufgabe unternehmensinterne oder externe Kunden zu beraten."
+			},
+			"23": {
+				"selection": "b",
+				"statement": "Als Wirtschaftsinformatiker*in kannst du auch neue Technologien ausprobieren. Die wirtschaftliche Rentabilität und Arbeitsweise ist jedoch ebenfalls deine Aufgabe."
+			},
+			"24": {
+				"selection": "a",
+				"statement": "Als Wirtschaftsinformatiker*in ist es deine Aufgabe, wirtschaftliche Anforderungen von verschiedenen Personengurppen in IT-Strukturen oder Prozessen umzusetzten."
+			},
+			"25": {
+				"selection": "b",
+				"statement": "Da Wirtschaftsinformatiker*innen nicht zwangsläufig mit technischen Fragestellungen in der Tiefe arbeiten müssen, reicht ein allgemeines Techikverständnis."
+			},
+			"26": {
+				"selection": "c",
+				"statement": "In diesem Studiengang ist man eher auf der Softwareseite unterwegs. Mit Hardware setzt man sich nur grundlegend und theoretisch auseinander. "
+			},
+			"27": {
+				"selection": "b",
+				"statement": "\"Eine Einführung in die KI findet im Schwerpunkt \"\"Digital Transformation/ Smart Business\nApplications\"\" statt (5 Credits).\""
+			},
+			"28": {
+				"selection": "b",
+				"statement": "In der Vorlesung \"Verteilte Systeme\" (22 Stunden) lernst du die Grundlagen über Netzwerke. Die Kompetenzen zum eigenständigen Einrichten von Computernetzwerken müssen jedoch noch erlernt werden."
+			},
+			"29": {
+				"selection": "a",
+				"statement": "Als Wirtschaftsinformatiker*in ist es deine Aufgabe, technische Details auch Laien aus anderen Bereichen oder Entscheidungsträgern verständlich erklären zu können."
+			},
+			"30": {
+				"selection": "b",
+				"statement": "In den Modulen \"Grundlagen Rechnungslegung\" (5 Credits) und \"Finanzierung und Rechnungswesen\" (5 Credits) bekommst du die Grundlagen von Finanzen und Steuern gelehrt. Im späteren Arbeitsleben ist das in der Regel aber kein Hauptbestandteil deiner Tätigkeit."
+			},
+			"31": {
+				"selection": "c",
+				"statement": "Das Testen von Anwendungen findet keine Berücksichtigung."
+			},
+			"32": {
+				"selection": "a",
+				"statement": "Als Wirtschaftsinformatiker*in kann es deine Aufgabe sein, Erkentnisse oder andere Informationen zu präsentieren und damit eine Grundlage für Unternehmensentscheidungen  zu schaffen. Vor allem im Wahlfach \"Consulting\" ist eine gut dargestellte Präsentation gegenüber Kunden wichtig."
+			},
+			"33": {
+				"selection": "b",
+				"statement": "In den Vorlesungen wie \"Systemanalyse und -Entwurf\" und \"Programmierung I und II\" lernt man die Grundlagen, um einfache Software oder Softwarebausteine zu enwickeln. Für komplexere Vorhaben benötigt man jedoch weitere Kenntnisse und Erfahrungen."
+			},
+			"34": {
+				"selection": "b",
+				"statement": "Praktische Erfahrungen im technischen Bereich können bei deinem Wirtschaftsinformatik - Application Management Studium hilfreich sein, sind allerdings nicht zwingend notwendig."
+			}
+		},
+		"1": {
+			"0": {
+				"selection": "a",
+				"statement": "Unternehmensführung wird als Bestandteil des Moduls \"Management\" gelehrt."
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Grundlegende betriebswirtschaftliche Konzepte werden vermittelt (insgesamt 20 Credits)."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "\"Die Auswertung von Daten und das damit verbundene Weiterentwickeln von \nGeschäftsmodellen ist in den Kernmodulen verankert.\""
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Als Data Scientist*in hilft dir ein ein kaufmännischen und unternehmerischen Verständnis um die Erkenntnisse aus den Daten betriebswirtschaftlich zu deuten und Prognosen zu machen. Die unternehmerische Entscheidung triffst du in der Regel jedoch nicht."
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Es werden verschiedene Informationssysteme im Laufe des Studiums betrachtet, da aus diesen Daten für die Analysen gezogen werden."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Auch hier müssen Präsentationen gehalten werden. Allerdings ist dieser Studiengang auf die Anwendung ausgelegt."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Die Speicherung von Daten bildet einen Schwerpunkt in den Kernmodulen, da dies die Grundlage für weiterführende Auswertungen und Analysen ist. "
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Geschäftsprozessmanagement ist Bestandteil der Kernmodule und wird u.a. als eigenes Modul (5 Credits). Die Umsetzung in ein IT-System ( z.B. betriebliche Informationssysteme) wird allerdings nicht tiefergehend betracht."
+			},
+			"8": {
+				"selection": "b",
+				"statement": "\"Es sind grundlegende Vorlesungen \nim Bereich Recht vorgesehen, die \nsich mit Gesellschaftsrecht und Vertrags- und Schuldrecht befassen. Allerdings ist dies nur ein Modul (5 Credits).\""
+			},
+			"9": {
+				"selection": "c",
+				"statement": "Es gibt keine Vorlesungen zum Thema Personalführung."
+			},
+			"10": {
+				"selection": "c",
+				"statement": "Daten werden abgerufen. Warten Sie ein paar Sekunden, und versuchen Sie noch mal, auszuschneiden oder zu kopieren."
+			},
+			"11": {
+				"selection": "b",
+				"statement": "Es gibt in dem Wahlfach \"Software-Entwicklung in der KI\" eine große Vorlesung \"App-Entwicklung\" mit 50 Stunden."
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Es gibt ein Modul zum Thema (5 Credits) mit den zwei Vorlesungen \"Big Data Programming\" (28 Stunden)  \"Big Data Storage\" (27 Stunden) ."
+			},
+			"13": {
+				"selection": "b",
+				"statement": "Volkswirtschaftslehre wird in einem eigenen Kernmodul gelehrt (5 Credits)."
+			},
+			"14": {
+				"selection": "b",
+				"statement": "Marketing wird in einer Vorlesung (24 Stunden) gelehrt."
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Es werden in den zwei Modulen \"Programmierung I und II\" (10 Credits) die Grundlagen der Programmierung vermittelt."
+			},
+			"16": {
+				"selection": "b",
+				"statement": "Grundlagen der digitalen Transformation werden ausschließlich im Wahlfach \"Data-driven Business\" vermittelt (20 Credits)."
+			},
+			"17": {
+				"selection": "b",
+				"statement": "Es gibt zwei Module der Mathematik mit insgesamt 10 Credits."
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Das ganze Kernmodul \"Data Science\" (50 Credits) dreht sich um die Auswertung, Aufbereitung und Visualisierung von Daten."
+			},
+			"19": {
+				"selection": "b",
+				"statement": "Grundlegende theoretische Konzepte sowie Logik werden in den Kernmodulen behandelt."
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Einzelne Aspekte der Softwareentwicklung werden im Laufe des Studiums betrachtet (z.B. \"Systemanalyse und -Entwurf\" - 36 Stunden). Auch wird im Wahlfach \"Software-Entwicklung in der KI\" eine Vertiefung angeboten."
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Es gibt für alle die Vorlesung \"Systemanalyse und -Entwurf\" (36 Stunden) und in Wahlfach zusätzlich die Vorlesung \"Software Engineering\" (50 Stunden)."
+			},
+			"22": {
+				"selection": "c",
+				"statement": "Als Data Scientist*in ist Kundenberatung in der Regel kein Bestandteil deiner Arbeit und kein Thema im Studium."
+			},
+			"23": {
+				"selection": "a",
+				"statement": "Als Data Scientist*in entwickelst du neue analytische Methoden und neue Erkentnisse gewinnen zu können. Ob diese wirtschaftlich ein relevantes Ergebnis erzielen ist nicht immer sicher."
+			},
+			"24": {
+				"selection": "b",
+				"statement": "Als Data Scientist*in bereitest du Daten meistens unabhängig von den Anforderungen verschiedener Personengurppen auf, um Erkenntnisse zu gewinnen."
+			},
+			"25": {
+				"selection": "b",
+				"statement": "Da Data Scientist*innen nicht zwangsläufig mit technischen Fragestellungen in der Tiefe arbeiten müssen, reicht ein allgemeines Techikverständnis."
+			},
+			"26": {
+				"selection": "c",
+				"statement": "In diesem Studiengang ist man eher auf der Softwareseite unterwegs. Mit Hardware setzt man sich nur grundlegend und theoretisch auseinander. "
+			},
+			"27": {
+				"selection": "a",
+				"statement": "Die Anwendung von Verfahren des maschinellen Lernens sind wesentlicher Bestandteil der Kernmodule. "
+			},
+			"28": {
+				"selection": "b",
+				"statement": "In der Vorlesung \"Verteilte Systeme\" (22 Stunden) lernst du die Grundlagen über Netzwerke. Die Kompetenzen zum eigenständigen Einrichten von Computernetzwerken müssen jedoch noch erlernt werden."
+			},
+			"29": {
+				"selection": "a",
+				"statement": "Als Data Scientist*in ist es deine Aufgabe, Entscheidungsgrundlagen auf Basis von technischen Daten auch Laien aus anderen Bereichen oder Entscheidungsträgern verständlich erklären zu können."
+			},
+			"30": {
+				"selection": "b",
+				"statement": "In den Modulen \"Grundlagen Rechnungslegung\" (5 Credits) und \"Finanzierung und Rechnungswesen\" (5 Credits) bekommst du die Grundlagen von Finanzen und Steuern gelehrt. Im späteren Arbeitsleben ist das in der Regel aber kein Hauptbestandteil deiner Tätigkeit."
+			},
+			"31": {
+				"selection": "c",
+				"statement": "Das Testen von Anwendungen findet keine Berücksichtigung."
+			},
+			"32": {
+				"selection": "a",
+				"statement": "Als Data Scientist*in ist es deine Aufgabe, die neuen Erkenntnisse aus deiner Arbeit mit den untersuchten Daten in der Regel unternehmensintern darzustellen, zu präsentieren und Handlungsempfehlungen auszusprechen."
+			},
+			"33": {
+				"selection": "c",
+				"statement": "In den Vorlesungen wie \"Systemanalyse und -Entwurf\" und \"Programmierung I und II\" lernt man die Grundlagen, um einfache Software oder Softwarebausteine zu enwickeln. Für komplexere Vorhaben benötigt man jedoch weitere Kenntnisse und Erfahrungen. Zudem ist das Berufsbild der Data Scientist*in nicht auf die eigenständige Softwareentwicklung ausgelegt."
+			},
+			"34": {
+				"selection": "b",
+				"statement": "Praktische Erfahrungen im technischen Bereich können bei deinem Wirtschaftsinformatik - Data Science Studium hilfreich sein,  sind allerdings nicht zwingend notwendig. "
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "c",
+				"statement": "Unternehmensführung wird nicht spezifisch als Thema behandelt."
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Es werden rudimentäre betriebswirtschaftliche Inhalte im Modul \"Schlüsselqualifikationen\" vermittelt (5 Credits)."
+			},
+			"2": {
+				"selection": "c",
+				"statement": "\"Das Thema Geschäftmodellmodelierung ist \nnicht explizit vorgesehen.\""
+			},
+			"3": {
+				"selection": "c",
+				"statement": "Als Informatiker*in ist ein kaufmännischen und unternehmerischen Verständnis nicht zwingend notwendig."
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Es werden verschiedene Informationssysteme im Laufe des Studiums betrachtet. Infomratiker*innen entwickeln und verbessern diese häufig."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Auch hier müssen Präsentationen gehalten werden. Allerdings ist dieser Studiengang auf die Anwendung bzw. Umsetzung ausgelegt."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Datenbanken sind ein wesentlicher Bestandteil der Informatik und werden mit 11 Credits vertieft behandelt. "
+			},
+			"7": {
+				"selection": "c",
+				"statement": "Es finden keine spezifischen Vorlesungen zu Geschäftsprozessmanagement statt."
+			},
+			"8": {
+				"selection": "c",
+				"statement": "\"Es finden keine spezifischen Vorlesungen über \nrechtliche Grundlagen statt.\""
+			},
+			"9": {
+				"selection": "c",
+				"statement": "Es gibt keine Vorlesungen zum Thema Personalführung."
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Durch ein ganzes Modul \"IT-Sicherheit\" (5 Credits) im Kernmodul und das Wahlfach \"IT-Operations / IT-Security\" (20 Credits) bist du auf einen Beruf in dem Bereich IT-Sicherheit gut vorbereitet."
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Es gibt ein ganzes Modul zum Thema \"Entwicklung Mobiler Applikationen\" (5 Credits)."
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Es gibt nur eine Vorlesung \"Big Data\" mit 36 Stunden."
+			},
+			"13": {
+				"selection": "c",
+				"statement": "Volkswirtschaftslehre ist kein Bestandteil des Studiums."
+			},
+			"14": {
+				"selection": "c",
+				"statement": "Marketing ist kein Bestandteil des Studiums. "
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Es werden mehrere Programmiermodule (14 Credits) gelehrt und unterschiedliche Programmiersprachen praktisch erlernt (14 Credits)."
+			},
+			"16": {
+				"selection": "b",
+				"statement": "\"Die Grundlagen der digitalen\nTransformation werden als Kernmodul vermittelt (5 Credits), allerdings ist dies wenig im Vergleich zu den anderen Studiengängen. \""
+			},
+			"17": {
+				"selection": "a",
+				"statement": "Es gibt zwei Module der Mathematik mit insgesamt 14 Credits. Vor allem die theoretische Informatik mit \"Gundlagen und Logik\" (60 Stunden) erfordert ein gutes Matheverständnis."
+			},
+			"18": {
+				"selection": "b",
+				"statement": "Die Datenverarbeitung und Auswertung wird nur in der Vorlesung \"Big Data\" mit 36 Stunden explizit behandelt."
+			},
+			"19": {
+				"selection": "a",
+				"statement": "Theoretische sowie technische Informatik sind wesentliche Bestandteile der Kernmodule."
+			},
+			"20": {
+				"selection": "a",
+				"statement": "Softwareentwicklung wird hier in all seinen Schritten betrachtet. Des Weiteren wird ebenfalls im Schwerpunkt \"Software Engineering\" vertiefend auf Vorgehensmodelle eingegangen. "
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Es gibt ein ganzes Modul \"Software Engineering I\" mit insgesamt 96 Stunden."
+			},
+			"22": {
+				"selection": "c",
+				"statement": "Als informatiker*in  ist Kundenberatung in der Regel kein Bestandteil deiner Arbeit und kein Thema im Studium."
+			},
+			"23": {
+				"selection": "a",
+				"statement": "Als Informatiker*in kannst du neue Technologien entwickeln oder betreuen. Die wirtschaftliche Arbeitsweise des Unternehmens musst du in der Regel nicht verantworten."
+			},
+			"24": {
+				"selection": "b",
+				"statement": "Als Informatiker*in bist du meist in die Umsetzung von Anfrderungen involviert und musst weniger abwägen, welche Personengruppen priorisiert werden."
+			},
+			"25": {
+				"selection": "a",
+				"statement": "Es ist hilfreich als Informatiker*in, sich für technische Themen auch in der Freizeit zu begeistern zu können, da dein Arbeitsalltag daraus besteht."
+			},
+			"26": {
+				"selection": "a",
+				"statement": "Das Arbeiten mit Hardware ist ein wesentlicher Bestandteil des Studiums."
+			},
+			"27": {
+				"selection": "b",
+				"statement": "KI wird im Schwerpunkt \"Software Engineering\" behandelt (5 Credits)."
+			},
+			"28": {
+				"selection": "a",
+				"statement": "In dem Modul \"Kommunikations- und Netzwerktechnik\" (5 Credits) lernst du ein detalliertes Verständnis über Kommunikations- und Netztechniken und kannst mit diesem Grundlagen ein Computernetzwerk aufbauen."
+			},
+			"29": {
+				"selection": "a",
+				"statement": "Als Informatiker*in musst du deine Entwicklungen Kolleg*innen verständlich erklären können."
+			},
+			"30": {
+				"selection": "c",
+				"statement": "Es gibt keine Vorlesungen zu dem Themen Finanzen und Steuern."
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Softwareentwicklung wird hier ganzheitlich betrachtet. Dazu gehört auch das Testen einer entwickelten Anwendung."
+			},
+			"32": {
+				"selection": "c",
+				"statement": "Als Informatiker*in musst du in der Regel keine Daten oder Informationen vor anderen außerhalb deiner Abteilung präsentieren."
+			},
+			"33": {
+				"selection": "a",
+				"statement": "In dem Kernmodul \"Informatik\" (91 Credits) lernt man alle Grundlagen zur eigenständigen Softwareentwicklung."
+			},
+			"34": {
+				"selection": "a",
+				"statement": "Praktische Erfahrungen im technischen Bereich können bei deinem Informatik Studium sehr hilfreich sein. Eine Voraussetzung ist das natürlich aber nicht!"
+			}
+		},
+		"3": {
+			"0": {
+				"selection": "a",
+				"statement": "Unternehmensführung wird als Bestandteil des Moduls \"Integriertes Management\" gelehrt. Desweiteren werden Module im Bereich Unternehmenssteuerung gelehrt (5 Credits)."
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Bei diesem Studium handelt es sich um ein BWL Studium. Infolgedessen sind die betriebswirtschaftlichen Inhalte der Hauptbestandteil (30 Credits). "
+			},
+			"2": {
+				"selection": "a",
+				"statement": "\"Die Auswertung von Daten und das damit verbundene Weiterentwickeln von \nGeschäftsmodellen ist in den Kernmodulen verankert.\""
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Als BWLer*in ist es deine Aufgabe, Fragestellungen oder Probleme mit deinem kaufmännischen und unternehmerischen Verständnis zu beantworten."
+			},
+			"4": {
+				"selection": "b",
+				"statement": "Einzelne Informationssysteme werden im Laufe des Studiums betrachtet."
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Das Erklären von Konzepten und das Präsentieren vor anderen ist ein wesentlicher Bestandteil des Studiengangs."
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Auch hier werden Datenbanken betrachtet. Allerdings werden hier keine spezialiserten Module angeboten. Die Inhalt werden als Bestandteil von bestimmten Vorlesungen und Modulen wie z.B. \"Business Analytics\" vermittelt."
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Geschäftsprozessmanagement ist Bestandteil der Kernmodule und wird u.a. im Modul \"Methoden für die digitale Wirtschaft\" mit 20 Stunden gelehrt. Die Umsetzung in ein IT-System ( z.B. betriebliche Informationssysteme) wird allerdings nicht tiefergehend betracht."
+			},
+			"8": {
+				"selection": "a",
+				"statement": "\"Es finden Vorlesungen über \nbürgerliches sowie \nWirtschaftsrecht im Umfang \nvon 10 Credits statt. Als Alleinstellungsmerkmal dient dabei die Vorlesung \"\"IT-Recht\"\" im Modul \"\"IT-Sicherheit und IT-Recht in der digitalen Wirtschaft\"\".\""
+			},
+			"9": {
+				"selection": "a",
+				"statement": "In der Vorlesung \"Personalwirtschaft\" (33 Stunden) lernst du die Grundlagen der Personalführung."
+			},
+			"10": {
+				"selection": "c",
+				"statement": "Durch das Modul \"IT-Sicherheit und IT-Recht in der digitalen Wirtschaft\" (5 Credits) kannst du mit deinem betriebswirtschaftlichen Hintergrund den Bereich IT-Sicherheit unterstützen. Die technische Systembereuung ist dabei jedoch nicht deine Aufgabe oder Lehrinhalt des Studiums."
+			},
+			"11": {
+				"selection": "c",
+				"statement": "Es gibt keine eigene Vorlesung zum Thema App Entwicklung."
+			},
+			"12": {
+				"selection": "c",
+				"statement": "Es gibt keine eigene Vorlesung zum Thema Big Data."
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Volkswirtschaftslehre und Wirtschaftspolitik sind zentraler Bestandteil des Studiums (15 Credits)."
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Marketing wird als Teilmodul in den Kernmodulen angeboten. Des Weiteren kann ein eigener Schwerpunkt \"Marketing\" gewählt werden."
+			},
+			"15": {
+				"selection": "c",
+				"statement": "Programmieren ist kein Bestandteil des Studiums."
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Digitale Transformation ist ein wesentlicher Beestandteil des Studiengangs. Es werden Geschäftsmodelle, Technologien und auch die Veränderung der Arbeitswelt betrachtet (insgesamt 15 Credits). Auch in anderen Modulen wird das Thema immer wieder angeschnitten."
+			},
+			"17": {
+				"selection": "b",
+				"statement": "Es gibt ein Modul \"Mathematik und Statistik\" mit 5 Credits und Grundlagen der Wirtschaftsmathematik."
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Mit Vorlesungen wie \"Grundlagen und  Anwendungen von Business Analytics\" (55 Stunden) und \"Grundlagen der Datenmodellierung\" (36 Stunden) sind diese Interessen abgedeckt. Die Ergebnisse müssen in der BWL in einen betriebswirtschaftlichen Kontext gesetzt werden."
+			},
+			"19": {
+				"selection": "c",
+				"statement": "Einzelne throretische Konzepte werden betrachtet (z.B. Grundlagen und Anwendung verteilter Systeme). Allerdings ist dies deutlich weniger als in den anderen Studiengängen der Fall."
+			},
+			"20": {
+				"selection": "c",
+				"statement": "Softwareentwicklung ist kein Bestandteil des Studiums."
+			},
+			"21": {
+				"selection": "c",
+				"statement": "Es gibt keine Vorlesungen, in denen der Aufbau von Programmen gelehrt wird."
+			},
+			"22": {
+				"selection": "b",
+				"statement": "Als BWLer*in kannst du später mit Kundenkontakt arbeiten, notwendig ist es aber nicht."
+			},
+			"23": {
+				"selection": "c",
+				"statement": "Als BWLer*in ist es deine Aufgabe, sicherzustellen, dass sich dein Unternehmen wirtschaftlich rentabel ist und sauber arbeitet. Neue Technologien wirst du vermutlich weniger selbst ausprobieren."
+			},
+			"24": {
+				"selection": "a",
+				"statement": "Als BWLer*in musst du zwischen Interessensgruppen abwägen, um die wirtschaftlichsten Entscheidungen zu treffen."
+			},
+			"25": {
+				"selection": "c",
+				"statement": "In der BWL ist ein Technikverständnis nicht zwingend notwendig."
+			},
+			"26": {
+				"selection": "c",
+				"statement": "Mit Hardware setzt man sich in diesem Studiengang nur wenig auseinander. "
+			},
+			"27": {
+				"selection": "c",
+				"statement": "Es werden keine Verfahren des maschinellen Lernens berücksichtigt."
+			},
+			"28": {
+				"selection": "b",
+				"statement": "In der Vorlesung \"Verteilte Systeme\" (22 Stunden) lernst du die Grundlagen über Netzwerke. Die Kompetenzen zum eigenständigen Einrichten von Computernetzwerken müssen jedoch noch erlernt werden."
+			},
+			"29": {
+				"selection": "b",
+				"statement": "Als BWLer*in wirst du in deinem Arbeitsleben weniger technische Details erklären müssen, jedoch ist eine zielgruppengerechte Erklärung sehr wichtig."
+			},
+			"30": {
+				"selection": "a",
+				"statement": "In mehrern Modulen wie \"Unternehmensrechnung \" (5 Credits), \"Technik der Finanzbuchführung\" (5 Credits), \"Bilanzierung und Besteuerung\" (5 Credits) und weiteren erhälst du Tiefe Kentnisse, um diese im Arbeitsalltag anzuwenden."
+			},
+			"31": {
+				"selection": "c",
+				"statement": "Das Testen von Anwendungen findet keine Berücksichtigung."
+			},
+			"32": {
+				"selection": "a",
+				"statement": "Als BWLer*in ist es deine Aufgabe, die richtigen Informationen für unternehmerische Fragestellungen geeignet darzustellen, um andere Menschen zu informieren oder eine Entscheidungsgrundlage zu schaffen."
+			},
+			"33": {
+				"selection": "c",
+				"statement": "Softwareentwicklung ist kein Bestandteil des Studiums."
+			},
+			"34": {
+				"selection": "c",
+				"statement": "Praktische Erfahrungen im technischen Bereich bringen keine besonderen Vorteile."
+			}
+		}
+	}
+}
